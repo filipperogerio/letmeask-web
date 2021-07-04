@@ -1,3 +1,13 @@
+# Melhorias que serão implementadas
+- Responsividade
+- Tema escuro
+- versão pwa
+- outros bancos de dados(firestore, supabase)
+- styled components
+- ESLint, prettier
+- Github detalhado
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
